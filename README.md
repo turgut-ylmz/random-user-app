@@ -1,1 +1,1 @@
-# random-user-app
+![Random User App](random-user-app.gif)
